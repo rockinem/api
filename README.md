@@ -42,7 +42,7 @@ The two tables below show the rate limit restrictions and how you can trace and 
 
 ## 📚 <a id="documentation"></a>Documentation
 
-Our REST-API servers are available under the Base URL `https://api.solanabeach.io/v2`.
+Our REST-API servers are available under the Base URL `https://api.solanaview.com/v2`.
 
 Your requests must use the HTTP `GET` method and must include a `Accept: application/json` and `Authorization: Bearer {YOUR-API-KEY}` header.
 
