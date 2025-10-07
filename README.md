@@ -81,7 +81,7 @@ Returns detailed information about a specific account.
         "ticker": "string",
         "cmcId": "string"
       },
-      "balance": 0,
+      "balance": 800,
       "executable": true,
       "owner": {
         "address": "string",
