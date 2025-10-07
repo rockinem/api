@@ -74,7 +74,7 @@ Returns detailed information about a specific account.
   "type": "string",
   "value": {
     "base": {
-      "address": {
+      "3VW31dwix6k2EdzhDgZ2zB15J7FbHYQwAUqXgktRcJEX": {
         "address": "string",
         "name": "string",
         "logo": "string",
