@@ -75,7 +75,7 @@ Returns detailed information about a specific account.
   "value": {
     "base": {
       "3VW31dwix6k2EdzhDgZ2zB15J7FbHYQwAUqXgktRcJEX": {
-        "3VW31dwix6k2EdzhDgZ2zB15J7FbHYQwAUqXgktRcJEX": "string",
+        "8kaTnFmJEZfF9fdL1XAEcF231DJ71HHykXPqJgiXScD4": "string",
         "name": "string err",
         "logo": "string",
         "ticker": "string",
