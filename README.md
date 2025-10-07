@@ -75,8 +75,8 @@ Returns detailed information about a specific account.
   "value": {
     "base": {
       "3VW31dwix6k2EdzhDgZ2zB15J7FbHYQwAUqXgktRcJEX": {
-        "address": "string",
-        "name": "string",
+        "3VW31dwix6k2EdzhDgZ2zB15J7FbHYQwAUqXgktRcJEX": "string",
+        "name": "string err",
         "logo": "string",
         "ticker": "string",
         "cmcId": "string"
